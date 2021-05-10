@@ -6,6 +6,10 @@ import Projects from './Projects'
 import ProjectsAnimation from './ProjectsAnimation'
 import AboutAnimation from './AboutAnimation'
 import About from './About'
+import ContactAnimation from './ContactAnimation'
+import Contact from './Contact'
+import Footer from './Footer'
+
 
 
 
@@ -15,15 +19,23 @@ function Home() {
     <div>
       <CssBaseline />
       <NavigationToolbar />
+
       <div style={{backgroundColor: "white"}}>
      <Introduction />
-    
+     
      <ProjectsAnimation />
+   
+     
      <Projects />
+
     <AboutAnimation />
     <About />
+    <ContactAnimation />
+    <Contact />
+    </div>
 
-     </div>
+     
+     <Footer />
       
     </div>
   );

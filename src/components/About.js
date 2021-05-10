@@ -5,12 +5,11 @@ import Container from "@material-ui/core/Container";
 import { Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import Avatar from "@material-ui/core/Avatar";
-import Box from "@material-ui/core/Box";
 
 const useStyles = makeStyles((theme) => ({
     background: {
-        backgroundColor: 'white',
-        marginTop: "70px"
+        backgroundColor: '#2196f3',
+        marginTop: "64px",
     },
     avatarSize: {
         width: '200px',
@@ -25,8 +24,8 @@ function About() {
             <CssBaseline />
             <Container>
             <NavigationToolbar />
-            
-            <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" className={classes.avatarSize}/>
+
+            <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" className={classes.avatarSize} />
             <Typography variant="h1" component="h1">
             About US
             </Typography>
