@@ -52,11 +52,12 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                      Plants Guide
+                      Plants Guide(Python/Django)
                     </Typography>
                     <Typography variant="body2" component="p">
-                      Plants Guide done using Full Stack Python(Django)
+                      Plants Guide done using Full Stack Python(Django). It was a group project in which I was responsible for the backend.
                     </Typography>
+
                   </CardContent>
                   <CardActions>
                     {/* <Button size="small" >Learn More</Button> */}
@@ -65,7 +66,15 @@ function Projects() {
                       color="secondary"
                       className={classes.linkStyle}
                     >
-                      Learn more
+                      Visit site
+                    </Link>
+
+                    <Link
+                      href="https://github.com/emad998/plants2"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      Github Repo
                     </Link>
                   </CardActions>
                 </Card>
@@ -77,24 +86,145 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                      Meal Generator
+                      Meal Generator(Jquery, Bootstrap)
                     </Typography>
                     <Typography variant="body2" component="p">
-                      Meal Generator web application done using HTML, CSS, Javascript, jQuery, mealDb Api.
+                      Meal Generator web application using HTML, CSS, Javascript, jQuery, bootstrap, mealDb Api.
                     </Typography>
                   </CardContent>
                   <CardActions>
                     {/* <Button size="small" >Learn More</Button> */}
                     <Link
-                      href="https://hardcore-noether-d4e0bb.netlify.app/"
+                      href="https://trinitytest2.dreamhosters.com/"
                       color="secondary"
                       className={classes.linkStyle}
                     >
-                      Learn more
+                      Visit Site
+                    </Link>
+                    <Link
+                      href="https://github.com/emad998/chefToRescueV2"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      Github Repo
                     </Link>
                   </CardActions>
                 </Card>
               </Grid>
+
+
+
+
+            {/* Third project */}
+            <Grid item xs={12} md={6}>
+                <Card className={classes.root2}>
+                  <CardContent>
+                    <Typography variant="h5" component="h2">
+                      Meal Generator(React, Firebase)
+                    </Typography>
+                    <Typography variant="body2" component="p">
+                      Meal Generator web application done using HTML, CSS, Javascript, React and Firebase for the backend.
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    {/* <Button size="small" >Learn More</Button> */}
+                    <Link
+                      href="https://auth-development-1543d.web.app/"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      visit site
+                    </Link>
+                    <Link
+                      href="https://github.com/emad998/chefToRescueReact"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      Github Repo
+                    </Link>
+                  </CardActions>
+                </Card>
+              </Grid>
+
+
+
+            {/* fourth project */}
+            <Grid item xs={12} md={6}>
+                <Card className={classes.root2}>
+                  <CardContent>
+                    <Typography variant="h5" component="h2">
+                      Meal Generator(React Native/ Firebase)
+                    </Typography>
+                    <Typography variant="body2" component="p">
+                      Meal Generator mobile application done using HTML, CSS, Javascript, React Native and Firebase for the backend.
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    {/* <Button size="small" >Learn More</Button> */}
+                    <Link
+                      href="https://github.com/emad998/reactnativeexpo-cheftorescue"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      Github Repo
+                    </Link>
+                  </CardActions>
+                </Card>
+              </Grid>
+
+
+
+
+            {/* fifth project */}
+            <Grid item xs={12} md={6}>
+                <Card className={classes.root2}>
+                  <CardContent>
+                    <Typography variant="h5" component="h2">
+                      Meal Generator(MERN)
+                    </Typography>
+                    <Typography variant="body2" component="p">
+                      Meal Generator web application done using HTML, CSS, Javascript, React, Node, Express, mongoDB and mongoose.
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    {/* <Button size="small" >Learn More</Button> */}
+                    <Link
+                      href="https://github.com/emad998/mern-cheftorescue"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      Github Repo
+                    </Link>
+                  </CardActions>
+                </Card>
+              </Grid>
+
+
+              {/* 6th project */}
+              <Grid item xs={12} md={6}>
+                <Card className={classes.root2}>
+                  <CardContent>
+                    <Typography variant="h5" component="h2">
+                     Cocktail Generator(Javascript, Materialize)
+                    </Typography>
+                    <Typography variant="body2" component="p">
+                      Cocktail Generator web application done using HTML, CSS, Javascript, materialize and cocktailDB Api. 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    {/* <Button size="small" >Learn More</Button> */}
+                    <Link
+                      href="https://github.com/emad998/mern-cheftorescue"
+                      color="secondary"
+                      className={classes.linkStyle}
+                    >
+                      Github Repo
+                    </Link>
+                  </CardActions>
+                </Card>
+              </Grid>
+
+
             </Grid>
           </div>
         </Container>

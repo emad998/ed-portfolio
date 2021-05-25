@@ -26,11 +26,11 @@ function Contact() {
             </Typography>
             <Typography variant="h4" component="h3">
             Say Hi or find me on other platforms: 
-            <Link href="#" color="textprimary">
+            <Link href="https://github.com/emad998" color="textprimary">
             GitHub 
             </Link>
             &
-            <Link href="#" color="textprimary">
+            <Link href="https://www.linkedin.com/in/ed-h-7892b4195/" color="textprimary">
             LinkedIn
             </Link>
             

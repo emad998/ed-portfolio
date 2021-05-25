@@ -5,6 +5,7 @@ import Container from "@material-ui/core/Container";
 import { Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import Avatar from "@material-ui/core/Avatar";
+import ed from '../assets/ed.jpg'
 
 const useStyles = makeStyles((theme) => ({
     background: {
@@ -25,12 +26,12 @@ function About() {
             <Container>
             <NavigationToolbar />
 
-            <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" className={classes.avatarSize} />
+            <Avatar alt="Emad Hanna" src={ed} className={classes.avatarSize} />
             <Typography variant="h1" component="h1">
-            About US
+            About
             </Typography>
             <Typography variant="h4" component="h1">
-            I am Full-Stack Web developer experienced in full stack Javascript(MERN, React with Firebase) and full stack Python(Django). I was introduced to coding 2 years ago and found out that I have a passion for coding though I have a background in Pharmacy. I am open to pure coding jobs or coding jobs with need for medical background.
+            I am Full-Stack Web and mobile application developer experienced in full stack Javascript(MERN, React with Firebase, React Native with Firebase) and full stack Python(Django). I was introduced to coding 2 years ago and found out that I have a passion for coding though I have a background in Pharmacy. I am open to pure coding jobs or coding jobs with need for medical background.
             </Typography>
             
             </Container>
