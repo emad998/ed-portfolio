@@ -25,7 +25,7 @@ function Contact() {
             Get in touch
             </Typography>
             <Typography variant="h4" component="h3">
-            Say Hi or find me on other platforms: 
+            Say Hi or find me: 
             <Link href="https://github.com/emad998" color="textprimary">
             GitHub 
             </Link>

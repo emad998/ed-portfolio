@@ -47,7 +47,7 @@ function Introduction() {
 
       
           <Typography variant="h6" className={classes.title}>
-            Ed Portfolio Website
+            Ed Portfolio
           </Typography>
 
           <Typography className={classes.root}>
