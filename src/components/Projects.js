@@ -123,7 +123,7 @@ function Projects() {
                       Meal Generator(React, Firebase)
                     </Typography>
                     <Typography variant="body2" component="p">
-                      Meal Generator web application done using HTML, CSS, Javascript, React and Firebase for the backend.
+                      Meal Generator web application done using HTML, CSS, Javascript, React, Redux and Firebase for the backend.
                     </Typography>
                   </CardContent>
                   <CardActions>
@@ -183,7 +183,7 @@ function Projects() {
                       Meal Generator(MERN)
                     </Typography>
                     <Typography variant="body2" component="p">
-                      Meal Generator web application done using HTML, CSS, Javascript, React, Node, Express, mongoDB and mongoose.
+                      Meal Generator web application done using HTML, CSS, Javascript, React, Redux,  Node, Express, mongoDB and mongoose.
                     </Typography>
                   </CardContent>
                   <CardActions>

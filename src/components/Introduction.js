@@ -52,7 +52,7 @@ function Introduction() {
 
                 <Typography variant="h5" className={classes.description}>
                   I am Full Stack Web and mobile application developer experienced in Javascript(MERN,
-                  React with Firebase) and Python(Django).
+                  React/Firebase, React Native/Firebase) and Python(Django).
                 </Typography>
               </Grid>
               <Grid item xs={12} md={6}>
