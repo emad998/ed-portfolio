@@ -86,7 +86,7 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                      Meal Generator(Jquery, Bootstrap)
+                      Meal Generator(Javascript/Jquery, Bootstrap)
                     </Typography>
                     <Typography variant="body2" component="p">
                       Meal Generator web application using HTML, CSS, Javascript, jQuery, bootstrap, mealDb Api.
@@ -120,7 +120,7 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                      Meal Generator(React, Firebase)
+                      Meal Generator(Javascript/React, Firebase)
                     </Typography>
                     <Typography variant="body2" component="p">
                       Meal Generator web application done using HTML, CSS, Javascript, React, Redux and Firebase for the backend.
@@ -153,7 +153,7 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                      Meal Generator(React Native/ Firebase)
+                      Meal Generator(Javascript/React Native, Firebase)
                     </Typography>
                     <Typography variant="body2" component="p">
                       Meal Generator mobile application done using HTML, CSS, Javascript, React Native and Firebase for the backend.
@@ -180,7 +180,7 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                      Meal Generator(MERN)
+                      Meal Generator(Javascript/MERN)
                     </Typography>
                     <Typography variant="body2" component="p">
                       Meal Generator web application done using HTML, CSS, Javascript, React, Redux,  Node, Express, mongoDB and mongoose.
@@ -205,7 +205,7 @@ function Projects() {
                 <Card className={classes.root2}>
                   <CardContent>
                     <Typography variant="h5" component="h2">
-                     Cocktail Generator(Javascript, Materialize)
+                     Cocktail Generator(Javascript/Materialize)
                     </Typography>
                     <Typography variant="body2" component="p">
                       Cocktail Generator web application done using HTML, CSS, Javascript, materialize and cocktailDB Api. 

@@ -6,7 +6,7 @@ import Container from "@material-ui/core/Container";
 function ContactAnimation() {
     return (
         <Container>
-            <Lottie animationData={contactUsAnimation} style={{height: '300px', marginTop: "10px"}}/>;
+            <Lottie animationData={contactUsAnimation} style={{height: '300px', marginTop: "10px"}}/>
         </Container>
     )
 }

@@ -6,7 +6,7 @@ import Container from "@material-ui/core/Container";
 function AboutAnimation() {
     return (
         <Container>
-            <Lottie animationData={aboutUsAnimation} style={{height: '200px', marginTop: "30px"}}/>;
+            <Lottie animationData={aboutUsAnimation} style={{height: '200px', marginTop: "30px"}}/>
         </Container>
     )
 }
