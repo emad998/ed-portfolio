@@ -31,7 +31,7 @@ function About() {
             About
             </Typography>
             <Typography variant="h4" component="h1">
-            I am Full-Stack Web and mobile application developer experienced in full stack Javascript(MERN, React with Firebase, React Native with Firebase) and full stack Python(Django). I was introduced to coding 2 years ago and found out that I have a passion for coding though I have a background in Pharmacy. I am open to pure coding jobs or coding jobs with need for medical background.
+            I am Full-Stack Web and mobile application developer experienced in full stack Javascript(MERN, React with Firebase, React Native with Firebase) and full stack Python(Django). I was introduced to coding 2 years ago and found out that I have a passion for coding.
             </Typography>
             
             </Container>
